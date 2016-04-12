@@ -14,7 +14,7 @@ Bachiller en computación con Orientación Científica del Colegio La Salle de A
 
 ## Competencias Principales
 * Investigación e innovación al momento de crear nuevos y eficientes algoritmos.
-
+* Trabaja eficientemente bajo presión.
 
 ## Estudios
 Año  | Estudios
